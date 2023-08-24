@@ -7,5 +7,5 @@
 •	Integrated Python for preprocessing: data cleansing, normalization, and pattern extraction using pandas and Scikit-learn
 
 
-[Tableau Public Link]<https://public.tableau.com/app/profile/jiayu.wei/viz/PopularYoutubers2023Snapshot/Dashboard2>
+[Tableau Public Link](https://public.tableau.com/app/profile/jiayu.wei/viz/PopularYoutubers2023Snapshot/Dashboard2)
 
